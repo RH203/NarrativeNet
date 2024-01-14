@@ -1,7 +1,7 @@
 
 const JumboTron = () => {
   return (
-    <div className="w-[60%] h-[500px] flex bg-bg-jumbotron rounded-tl-xl rounded-br-xl">
+    <div className="w-[50%] h-[500px] flex bg-bg-jumbotron rounded-tl-xl rounded-br-xl">
       
     </div>
   )
